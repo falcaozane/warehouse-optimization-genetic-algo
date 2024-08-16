@@ -1,0 +1,6 @@
+matplotlib
+streamlit
+numpy
+random
+io
+base64
